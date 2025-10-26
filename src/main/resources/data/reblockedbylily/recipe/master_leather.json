@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "reblockedbylily:armorcore"
+  },
+  "base": {
+    "item": "minecraft:apple"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:bone"
+  },
+  "template": {
+    "item": "reblockedbylily:leather_upgrade_smithing_template"
+  }
+}

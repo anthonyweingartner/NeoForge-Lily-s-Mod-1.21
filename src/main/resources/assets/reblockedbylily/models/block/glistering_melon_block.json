@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "reblockedbylily:block/melon_top",
+    "side": "reblockedbylily:block/melon_side"
+  }
+}
