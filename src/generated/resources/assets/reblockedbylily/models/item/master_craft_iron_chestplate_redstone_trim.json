@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "reblockedbylily:item/master_craft_iron_chestplate",
+    "layer1": "minecraft:trims/items/chestplate_trim_redstone"
+  }
+}

@@ -1,0 +1,7 @@
+// 1.21	2025-10-27T20:55:10.2211304	Recipes
+7e3d7db4750b7964303c74fcf533d83cb121b0d0 data/minecraft/advancement/recipes/misc/egg_to_gunpowder_crafting.json
+be4f3fa6f6d736df2ca4c92e22c2f4cf81b5b44c data/minecraft/advancement/recipes/misc/rotten_flesh_to_leather_smoking.json
+d6ec67df42c604c69886a4d3acb09145175990f5 data/minecraft/recipe/egg_to_gunpowder_crafting.json
+ebe53d771c71a06adf7b3ec19ffa57354abc1584 data/minecraft/recipe/rotten_flesh_to_leather_smoking.json
+a89a752d7401c8a93725f9e74d5a8044e25cf512 data/reblockedbylily/advancement/recipes/misc/glistering_melon_block.json
+96e5415af0f9d49f8b6e4f91277bfc46ea8f2f42 data/reblockedbylily/recipe/glistering_melon_block.json
