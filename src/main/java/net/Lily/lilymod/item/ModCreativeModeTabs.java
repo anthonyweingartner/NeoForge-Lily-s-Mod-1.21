@@ -23,6 +23,37 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.POTIONOFBLINDNESS);
                         output.accept(ModItems.LEATHER_UPGRADE_SMITHING_TEMPLATE);
 
+
+                        output.accept(ModItems.MASTER_CRAFT_LEATHER_BOOTS);
+                        output.accept(ModItems.MASTER_CRAFT_LEATHER_LEGGINGS);
+                        output.accept(ModItems.MASTER_CRAFT_LEATHER_CHESTPLATE);
+                        output.accept(ModItems.MASTER_CRAFT_LEATHER_HELMET);
+
+                        output.accept(ModItems.MASTER_CRAFT_CHAINMAIL_BOOTS);
+                        output.accept(ModItems.MASTER_CRAFT_CHAINMAIL_LEGGINGS);
+                        output.accept(ModItems.MASTER_CRAFT_CHAINMAIL_CHESTPLATE);
+                        output.accept(ModItems.MASTER_CRAFT_CHAINMAIL_HELMET);
+
+                        output.accept(ModItems.MASTER_CRAFT_IRON_BOOTS);
+                        output.accept(ModItems.MASTER_CRAFT_IRON_LEGGINGS);
+                        output.accept(ModItems.MASTER_CRAFT_IRON_CHESTPLATE);
+                        output.accept(ModItems.MASTER_CRAFT_IRON_HELMET);
+
+                        output.accept(ModItems.MASTER_CRAFT_GOLD_BOOTS);
+                        output.accept(ModItems.MASTER_CRAFT_GOLD_LEGGINGS);
+                        output.accept(ModItems.MASTER_CRAFT_GOLD_CHESTPLATE);
+                        output.accept(ModItems.MASTER_CRAFT_GOLD_HELMET);
+
+                        output.accept(ModItems.MASTER_CRAFT_DIAMOND_BOOTS);
+                        output.accept(ModItems.MASTER_CRAFT_DIAMOND_LEGGINGS);
+                        output.accept(ModItems.MASTER_CRAFT_DIAMOND_CHESTPLATE);
+                        output.accept(ModItems.MASTER_CRAFT_DIAMOND_HELMET);
+
+                        output.accept(ModItems.MASTER_CRAFT_NEITHERITE_BOOTS);
+                        output.accept(ModItems.MASTER_CRAFT_NEITHERITE_LEGGINGS);
+                        output.accept(ModItems.MASTER_CRAFT_NEITHERITE_CHESTPLATE);
+                        output.accept(ModItems.MASTER_CRAFT_NEITHERITE_HELMET);
+
                     }).build());
 
 

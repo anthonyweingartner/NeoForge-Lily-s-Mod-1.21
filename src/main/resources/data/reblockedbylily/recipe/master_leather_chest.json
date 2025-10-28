@@ -4,11 +4,11 @@
     "item": "minecraft:leather"
   },
   "base": {
-    "item": "minecraft:leather_chestplate"
+    "item": "minecraft:leather_helmet"
   },
   "result": {
     "count": 1,
-    "id": "minecraft:leather_chestplate"
+    "id": "minecraft:leather_helmet"
   },
   "template": {
     "item": "reblockedbylily:leather_upgrade_smithing_template"

@@ -5,7 +5,30 @@
   "item.reblockedbylily.leather_upgrade_smithing_template": "Leather Master Upgrade Smithing Template",
   "creativetab.reblockedbylily.lily_items": "Lily's items she add :>",
   "item.minecraft.rabbit_hide": "Leather Scraps",
-  "block.reblockedbylily.glistering_melon_block": "Glistering Melon Block"
+  "block.reblockedbylily.glistering_melon_block": "Glistering Melon Block",
 
-
+  "item.reblockedbylily.master_craft_leather_helmet": "Master Crafted Leather Helmet",
+  "item.reblockedbylily.master_craft_leather_chestplate": "Master Crafted Leather Chestplate",
+  "item.reblockedbylily.master_craft_leather_leggings": "Master Crafted Leather Leggings",
+  "item.reblockedbylily.master_craft_leather_boots": "Master Crafted Iron Boots",
+  "item.reblockedbylily.master_craft_chainmail_helmet": "Master Crafted Chainmail Helmet",
+  "item.reblockedbylily.master_craft_chainmail_chestplate": "Master Crafted Chainmail Chestplate",
+  "item.reblockedbylily.master_craft_chainmail_leggings": "Master Crafted Chainmail Leggings",
+  "item.reblockedbylily.master_craft_chainmail_boots": "Master Crafted Chainmail Boots",
+  "item.reblockedbylily.master_craft_iron_helmet": "Master Crafted Iron Helmet",
+  "item.reblockedbylily.master_craft_iron_chestplate": "Master Crafted Iron Chestplate",
+  "item.reblockedbylily.master_craft_iron_leggings": "Master Crafted Iron Leggings",
+  "item.reblockedbylily.master_craft_iron_boots": "Master Crafted Iron Boots",
+  "item.reblockedbylily.master_craft_gold_helmet": "Master Crafted Gold Helmet",
+  "item.reblockedbylily.master_craft_gold_chestplate": "Master Crafted Gold Chestplate",
+  "item.reblockedbylily.master_craft_gold_leggings": "Master Crafted Gold Leggings",
+  "item.reblockedbylily.master_craft_gold_boots": "Master Crafted Gold Boots",
+  "item.reblockedbylily.master_craft_diamond_helmet": "Master Crafted Diamond Helmet",
+  "item.reblockedbylily.master_craft_diamond_chestplate": "Master Crafted Diamond Chestplate",
+  "item.reblockedbylily.master_craft_diamond_leggings": "Master Crafted Diamond Leggings",
+  "item.reblockedbylily.master_craft_diamond_boots": "Master Crafted Diamond Boots",
+  "item.reblockedbylily.master_craft_neitherite_helmet": "Master Crafted Neitherite Helmet",
+  "item.reblockedbylily.master_craft_neitherite_chestplate": "Master Crafted Neitherite Chestplate",
+  "item.reblockedbylily.master_craft_neitherite_leggings": "Master Crafted Neitherite Leggings",
+  "item.reblockedbylily.master_craft_neitherite_boots": "Master Crafted Neitherite Boots"
 }

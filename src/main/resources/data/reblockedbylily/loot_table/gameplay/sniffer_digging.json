@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:gameplay_sniffer_digging",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flint"
+        }
+      ]
+    }
+  ]
+}

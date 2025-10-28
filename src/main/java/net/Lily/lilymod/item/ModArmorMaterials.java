@@ -20,16 +20,55 @@ import java.util.function.Supplier;
 public class ModArmorMaterials {
 
 
-    public static final Holder<ArmorMaterial> LEATHER_MASTER_ARMOR_MATERIAL = register("leather_master_armor_material",
+    public static final Holder<ArmorMaterial> LEATHER_MASTER_ARMOR_MATERIAL = register("leather",
             Util.make(new EnumMap<>(ArmorItem.Type.class), attribute -> {
                 attribute.put(ArmorItem.Type.BOOTS, 1);
                 attribute.put(ArmorItem.Type.LEGGINGS, 2);
                 attribute.put(ArmorItem.Type.CHESTPLATE, 3);
                 attribute.put(ArmorItem.Type.HELMET, 1);
                 attribute.put(ArmorItem.Type.BODY, 1);
-            }), 15, -1f, 0.0f, () -> ModItems.ARMORCORE.get());
+            }), 30, 10000, 0.0f, () -> ModItems.ARMORCORE.get());
 
-
+    public static final Holder<ArmorMaterial> Chainmail_MASTER_ARMOR_MATERIAL = register("chainmail",
+            Util.make(new EnumMap<>(ArmorItem.Type.class), attribute -> {
+                attribute.put(ArmorItem.Type.BOOTS, 3);
+                attribute.put(ArmorItem.Type.LEGGINGS, 6);
+                attribute.put(ArmorItem.Type.CHESTPLATE, 7);
+                attribute.put(ArmorItem.Type.HELMET, 4);
+                attribute.put(ArmorItem.Type.BODY, 6);
+            }), 30, 10000, 0.0f, () -> ModItems.ARMORCORE.get());
+    public static final Holder<ArmorMaterial> IRON_MASTER_ARMOR_MATERIAL = register("iron",
+            Util.make(new EnumMap<>(ArmorItem.Type.class), attribute -> {
+                attribute.put(ArmorItem.Type.BOOTS, 7);
+                attribute.put(ArmorItem.Type.LEGGINGS, 10);
+                attribute.put(ArmorItem.Type.CHESTPLATE, 13);
+                attribute.put(ArmorItem.Type.HELMET, 8);
+                attribute.put(ArmorItem.Type.BODY, 15);
+            }), 30, 10000, 1.0f, () -> ModItems.ARMORCORE.get());
+    public static final Holder<ArmorMaterial> GOLD_MASTER_ARMOR_MATERIAL = register("gold",
+            Util.make(new EnumMap<>(ArmorItem.Type.class), attribute -> {
+                attribute.put(ArmorItem.Type.BOOTS, 3);
+                attribute.put(ArmorItem.Type.LEGGINGS, 5);
+                attribute.put(ArmorItem.Type.CHESTPLATE, 7);
+                attribute.put(ArmorItem.Type.HELMET, 4);
+                attribute.put(ArmorItem.Type.BODY, 9);
+            }), 60, 10000, 0.0f, () -> ModItems.ARMORCORE.get());
+    public static final Holder<ArmorMaterial> DIAMOND_MASTER_ARMOR_MATERIAL = register("diamond",
+            Util.make(new EnumMap<>(ArmorItem.Type.class), attribute -> {
+                attribute.put(ArmorItem.Type.BOOTS, 5);
+                attribute.put(ArmorItem.Type.LEGGINGS, 8);
+                attribute.put(ArmorItem.Type.CHESTPLATE, 10);
+                attribute.put(ArmorItem.Type.HELMET, 5);
+                attribute.put(ArmorItem.Type.BODY, 13);
+            }), 30, 10000, 0.0f, () -> ModItems.ARMORCORE.get());
+    public static final Holder<ArmorMaterial> NEITHERITE_MASTER_ARMOR_MATERIAL = register("neitherite",
+            Util.make(new EnumMap<>(ArmorItem.Type.class), attribute -> {
+                attribute.put(ArmorItem.Type.BOOTS, 5);
+                attribute.put(ArmorItem.Type.LEGGINGS, 8);
+                attribute.put(ArmorItem.Type.CHESTPLATE, 10);
+                attribute.put(ArmorItem.Type.HELMET, 5);
+                attribute.put(ArmorItem.Type.BODY, 13);
+            }), 30, 10000, 0.2f, () -> ModItems.ARMORCORE.get());
 
     private static Holder<ArmorMaterial> register(String name, EnumMap<ArmorItem.Type, Integer> typeProtection,
                                                   int enchantability, float toughness, float knockbackResistance,
